@@ -36,21 +36,21 @@ I'm a passionate developer constantly learning new technologies and creating int
 </div>
 
 <div align="center">
-  <br/>
+  <br />
   <i>↑ Overall GitHub statistics - shows total commits, PRs, issues, and contributions</i>
-  <br/>
+  <br />
   <i>↑ Most used programming languages - calculated from public repositories</i>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaksimLevchenko&theme=tokyonight&locale=en" alt="GitHub Streak" />
-  <br/>
+  <br />
   <i>↑ Contribution streak - current and longest streaks of daily commits</i>
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MaksimLevchenko&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  <br/>
+  <br />
   <i>↑ GitHub achievements and trophies - earned based on activity</i>
 </div>
 
@@ -65,10 +65,10 @@ I'm a passionate developer constantly learning new technologies and creating int
 
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maksimlevchenko)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksim.levchenko@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maksimlevchenko)
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/maksimlevchenko)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/h2s_rn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valvekat@mail.ru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-levchenko-060871319/)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/maksim__levchenko)
 
 </div>
 
@@ -82,7 +82,7 @@ I'm a passionate developer constantly learning new technologies and creating int
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MaksimLevchenko&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <br/>
+  <br />
   <i>↑ Profile view counter - tracks visitors to this profile</i>
 </div>
 
